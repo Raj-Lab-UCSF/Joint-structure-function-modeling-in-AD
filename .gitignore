@@ -1,0 +1,7 @@
+pySuStaIn
+.DS_Store
+tests
+sim
+.ipynb_checkpoints
+.Rhistory/
+__pycache__/
